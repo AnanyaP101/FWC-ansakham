@@ -1,0 +1,15 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    padding-top: 80px;
+}
+
+.profile-img {
+    width: 100%;              
+    height: auto;            
+    object-fit: cover;          
+}
+

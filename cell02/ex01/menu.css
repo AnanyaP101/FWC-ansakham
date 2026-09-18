@@ -1,4 +1,4 @@
-html, body{
+html, body {
     height: 100%;
     margin: 0;
     display: flex;
@@ -6,9 +6,10 @@ html, body{
     align-items: center;
     font-family: Arial, sans-serif;
     font-size: x-large;
+    background: linear-gradient(to bottom, #fff3ed, #f7abac);
 }
 
-.dpdwn {
+.container {
     text-align: center;
 }
 
